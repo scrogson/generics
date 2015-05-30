@@ -1,0 +1,2 @@
+defmodule Generics do
+end
